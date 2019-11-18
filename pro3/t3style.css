@@ -1,0 +1,64 @@
+main
+{
+position:absolute;
+width:100%;
+height:100%;
+}
+.top
+{
+    width:100%;
+    height:15%;
+    position: absolute;
+    
+}
+.i1
+{
+    left:2%;
+    top:5%;position: absolute;
+}
+.search
+{
+    margin-left:12em;
+    top:25%;
+    position: absolute;
+}
+.search a:hover{
+    color: white;
+    text-align: center;
+    padding: 1px 3px;
+    text-decoration: none;
+    position:absolute;
+}
+.pic
+{
+    left:15%;
+    top:15%;
+    position: absolute;
+    
+}
+h1
+{
+    margin-left: 9em;
+    font-family: sans-serif;
+}
+.png
+{
+    left:40%;
+    top:210px;
+    position: absolute;
+    width: 25%;
+    height: 45%;
+}
+.see
+{
+
+    position: absolute;
+    color:skyblue;
+    left:40%;
+    top: 60%;
+    font-size: 15px;
+}
+a
+{
+    text-decoration: none;
+}

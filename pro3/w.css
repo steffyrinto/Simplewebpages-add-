@@ -1,0 +1,29 @@
+
+.n{
+	width: 100%;
+	position: absolute;
+}
+.rr{
+	text-align: center;
+}
+button{
+color:#4F8DF9;
+border-radius: 20px;
+width: 40%;
+height: 7%;
+background-color: white;
+
+}
+button.hover{
+	color: #4E92F6;
+}
+#yy{
+background-color: 	#FE8200;
+border-radius: 20px;
+height: 40px;
+width: 45%;
+
+}
+.fa fa-check-circle{
+	background-color: #32B893;
+}
